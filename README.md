@@ -1,7 +1,11 @@
-# DECO2
+# DECO2: Integration of Carbon Trading Model and other Modifications
 
-DECarbonisation Option Optimisation (DECO2) is an optimal decarbonisation framework developed as part of a British Council-funded Trilateral Research Initiative between University of Surrey, University of Nottingham Malaysia, and University of Tokyo, with project parters De La Sall University (Philippines), Monash University Malaysia, Malaysian Green Technology Centre and Aria Sustainability. 
+This version adds carbon trading into previously published DECO2.
+Direct optimisation model involves incorporating various types of emissions and prices related to carbon trading as variables, leading to the creation of 
+an MINLP formulation.
+Greater decarbonisation is achieved as compared to that from initial DECO2 version.
+Indirect optimization model takes emission rights prices as parameters, leading to less non-linearity when compared to direct optimization model.
 
-The framework combines rigorous mathematical programming models (mixed-integer linear programming) to determine optimal pathways to decarbonisation through implementation of carbon apture and utilisation, negative emissions technologies, and alternative energy sources for optimal energy transitions. Please read the user manual in the main folder for information on the formulation and how the inputs work. For details on the partnership, please visit our site:
+DECO2-2023v has recently been published in SPC journal.
+https://www.sciencedirect.com/science/article/pii/S2352550923001781
 
-https://www.surrey.ac.uk/research-projects/software-framework-optimal-decarbonisation-planning-asean-countries
